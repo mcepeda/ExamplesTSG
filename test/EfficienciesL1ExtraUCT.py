@@ -1,8 +1,6 @@
 '''
 
-Creates L1ExtraNtuples (L1 Style) using a UCT->GT jump
-
-Authors: L. Dodd, N. Woods, T. Perry, A. Levine,, S. Dasu, M. Cepeda, E. Friis (UW Madison)
+Simple efficiency trees for testing L1Efficiencies
 
 '''
 
