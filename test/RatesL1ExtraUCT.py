@@ -1,8 +1,8 @@
 '''
 
-Creates L1ExtraNtuples (L1 Style) using a UCT->GT jump
+Simple Rate trees for testing 
+For a more detailed look at rates, use the https://github.com/cms-l1-dpg/L1Menu package
 
-Authors: L. Dodd, N. Woods, T. Perry, A. Levine,, S. Dasu, M. Cepeda, E. Friis (UW Madison)
 
 '''
 
